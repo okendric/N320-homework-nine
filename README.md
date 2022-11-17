@@ -4,7 +4,7 @@ This is N320 homework nine
 
 ## Firebase URL Link
 
-ok-cert-class.web.app
+https://ok-cert-class.web.app
 
 ## Web4 URL Link
 
